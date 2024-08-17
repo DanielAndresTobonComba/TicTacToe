@@ -12,7 +12,7 @@ La biblioteca `json` se utiliza para manejar la persistencia de datos y la bibli
 
 ### Interfaz de Usuario en la Consola
 El juego interactúa con el usuario a través de la consola por medio de entrada y salida de datos:
-- **Menú y Tablero**: Se implementa un menú simple y un tablero de juego impreso en la consola utilizando caracteres ASCII.
+- **Menú y Tablero**: Se implementa un menú simple y un tablero de juego impreso en la consola utilizando caracteres.
 
 
 
