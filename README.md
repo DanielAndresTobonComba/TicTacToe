@@ -1,4 +1,4 @@
-#Tic Tac Toe Python
+# Tic Tac Toe Python
 
 Este es un simple juego de **Tic Tac Toe** implementado en Python. El juego permite a dos jugadores competir entre sí, guardando los resultados y tiempos de juego en un archivo JSON para consultar la tabla de posiciones.
 
