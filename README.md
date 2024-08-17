@@ -28,5 +28,4 @@ El juego interactúa con el usuario a través de la consola por medio de entrada
 
 Para ejecutar el juego, simplemente corre el archivo Python en tu terminal:
 
-```bash
-python tic_tac_toe.py
+
