@@ -24,8 +24,6 @@ El juego interactúa con el usuario a través de la consola por medio de entrada
 3. Los jugadores toman turnos para seleccionar una casilla (1-9) en el tablero.
 4. El juego evalúa el tablero después de cada turno y declara un ganador o un empate.
 
-## Ejecución del Código
 
-Para ejecutar el juego, simplemente corre el archivo Python en tu terminal:
 
 
